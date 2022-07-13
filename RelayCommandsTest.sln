@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32602.291
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RelayCommandsTest", "RelayCommandsTest\RelayCommandsTest.csproj", "{A82DB2DA-96FD-4736-809E-8D6197B0F95D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A82DB2DA-96FD-4736-809E-8D6197B0F95D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A82DB2DA-96FD-4736-809E-8D6197B0F95D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A82DB2DA-96FD-4736-809E-8D6197B0F95D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A82DB2DA-96FD-4736-809E-8D6197B0F95D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {50C91589-6AE7-4388-9531-3661BF5B11A8}
+	EndGlobalSection
+EndGlobal
